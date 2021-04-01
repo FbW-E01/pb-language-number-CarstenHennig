@@ -10,10 +10,7 @@ console.log(parseInt(varOne) + varTwo);
 // ```javascript
 let introSentence = "hello, my name is Fran and I am ";
 let age = 25;
-
-// age converted into a string and concatenated with ths string  
 console.log(introSentence + parseInt(age));
-
 
 // **Expected Output**: 
 // ```javascript
