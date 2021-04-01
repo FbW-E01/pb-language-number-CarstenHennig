@@ -29,7 +29,7 @@ console.log(parseInt(numOne));
 console.log(typeof numOne);
 
 let numTwo = "10.05";
-console.log(parseFloat(numTwo));
+console.log(parseInt(numTwo));
 console.log(typeof numTwo);
 
 
